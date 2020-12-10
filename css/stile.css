@@ -1,0 +1,9 @@
+body {
+	background-image: url(images/bg.jpg); /* Путь к фоновому изображению */
+	background-color: #fafae8; /* Цвет фона */
+}
+
+#say{
+	color: #7a7a74;
+}
+
